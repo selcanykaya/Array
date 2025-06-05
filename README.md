@@ -1,1 +1,1 @@
-# Array
+C# dilinde array pratiği. Boş bir array tanımlayıp içerisine for döngüsüyle eleman ataması yapıldı. Daha sonra kullanıcıdan yeni bir sayı istenip listenin sonuna eklendi. Bunun için arrayın resize() metodu kullanıldı. İstenilen şekilde liste sıralanıp ekranda gösterildi.Affiyet Olsun <3
